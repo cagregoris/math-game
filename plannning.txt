@@ -1,0 +1,15 @@
+CLASSES:
+
+1. GAME
+  - switches player/turns
+  - print scores
+  - print results (winner with winner's score)
+
+2. PLAYER
+  - decrease lives
+  - checks if alive (lives > 0)
+
+3. QUESTION
+  - defines random numbers to add (number1 = rand(1...20) number2 = rand(1...20))
+  - asks question
+  - checks answer
